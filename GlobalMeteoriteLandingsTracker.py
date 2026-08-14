@@ -1,5 +1,6 @@
 import pandas as pd
 
+# Load the earthquake dataset into a Pandas DataFrame
 df = pd.read_csv("meteorites.csv")
 
 print("--- 1. First 5 Rows (head) ---")

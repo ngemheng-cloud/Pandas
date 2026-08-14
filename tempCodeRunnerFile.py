@@ -1,0 +1,1 @@
+nt(location_counts.head(10), "\n")
